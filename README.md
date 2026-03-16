@@ -1,4 +1,4 @@
-windows-dvorak-for-devs-with-qwerty-hotkeys
+windows-programmer-dvorak-with-qwerty-hotkeys
 =======================
 This fork is ANSI-only: no extra key next to Left Shift and the standard ANSI Enter key.
 
