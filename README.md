@@ -1,3 +1,4 @@
 windows-dvorak-for-devs-with-qwerty-hotkeys
 =======================
-Keeps QWERTY virtual-key assignments (so shortcuts behave like QWERTY), while the physical key positions follow Dvorak for Devs.
+This fork is ANSI-only: no extra key next to Left Shift and the standard ANSI Enter key.
+It uses QWERTY virtual-key codes (so common shortcuts behave like QWERTY), while the physical key positions follow the Dvorak for Devs layout.
